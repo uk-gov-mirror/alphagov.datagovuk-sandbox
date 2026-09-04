@@ -13,37 +13,19 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-09-03T0635.csv](results/collection-check-2026-09-03T0635.csv)
+Using test results file: [results/collection-check-2026-09-04T1104.csv](results/collection-check-2026-09-04T1104.csv)
 
 
 
-## Childhood vaccinations
-Page: [https://data.gov.uk/collections/early-years/childhood-vaccinations](https://data.gov.uk/collections/early-years/childhood-vaccinations)
-
-
-            
-
-The following links were not reachable during test
-
-- [https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/](https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/)
-
-
-
-## Early years health indicators
-Page: [https://data.gov.uk/collections/early-years/early-years-health-indicators](https://data.gov.uk/collections/early-years/early-years-health-indicators)
+## Aerial photography
+Page: [https://data.gov.uk/collections/environment/aerial-photography](https://data.gov.uk/collections/environment/aerial-photography)
 
 
             
 
 The following links were not reachable during test
 
-- [https://fingertips.phe.org.uk/profile/guidance/supporting-information/api](https://fingertips.phe.org.uk/profile/guidance/supporting-information/api)
-
-- [https://scotland.shinyapps.io/ScotPHO_profiles_tool/](https://scotland.shinyapps.io/ScotPHO_profiles_tool/)
-
-- [https://phw.nhs.wales/](https://phw.nhs.wales/)
-
-- [https://www.health-ni.gov.uk/articles/health-review-statistics-pre-school-children](https://www.health-ni.gov.uk/articles/health-review-statistics-pre-school-children)
+- [https://environment.data.gov.uk/dataset/32e2ff04-0c14-4544-b107-baa1552d0eee](https://environment.data.gov.uk/dataset/32e2ff04-0c14-4544-b107-baa1552d0eee)
 
 
 
