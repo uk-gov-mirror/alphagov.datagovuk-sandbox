@@ -13,7 +13,19 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-09-07T1211.csv](results/collection-check-2026-09-07T1211.csv)
+Using test results file: [results/collection-check-2026-09-08T1104.csv](results/collection-check-2026-09-08T1104.csv)
 
 
-No issues reported
+
+## Childhood vaccinations
+Page: [https://data.gov.uk/collections/early-years/childhood-vaccinations](https://data.gov.uk/collections/early-years/childhood-vaccinations)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://www.publichealth.hscni.net/publications/annual-immunisation-and-vaccine-preventable-diseases-reports](https://www.publichealth.hscni.net/publications/annual-immunisation-and-vaccine-preventable-diseases-reports)
+
+
+
