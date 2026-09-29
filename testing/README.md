@@ -13,55 +13,7 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-09-28T1334.csv](results/collection-check-2026-09-28T1334.csv)
-
-
-
-## Child height and weight
-Page: [https://data.gov.uk/collections/early-years/child-height-and-weight](https://data.gov.uk/collections/early-years/child-height-and-weight)
-
-
-            
-
-The following links were not reachable during test
-
-- [https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics](https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics)
-
-- [https://phw.nhs.wales/topic/child-measurement-programme/#reports](https://phw.nhs.wales/topic/child-measurement-programme/#reports)
-
-- [https://publichealthwales.shinyapps.io/ChildMeasurementProgrammeDashboard/](https://publichealthwales.shinyapps.io/ChildMeasurementProgrammeDashboard/)
-
-- [https://www.publichealth.hscni.net/publications?keys=statistical+profile+of+children%27s+health](https://www.publichealth.hscni.net/publications?keys=statistical+profile+of+children%27s+health)
-
-
-
-## Childhood vaccinations
-Page: [https://data.gov.uk/collections/early-years/childhood-vaccinations](https://data.gov.uk/collections/early-years/childhood-vaccinations)
-
-
-            
-
-The following links were not reachable during test
-
-- [https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics](https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics)
-
-- [https://scotland.shinyapps.io/phs-vaccination-surveillance/](https://scotland.shinyapps.io/phs-vaccination-surveillance/)
-
-- [https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/](https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/)
-
-- [https://www.publichealth.hscni.net/publications/annual-immunisation-and-vaccine-preventable-diseases-reports](https://www.publichealth.hscni.net/publications/annual-immunisation-and-vaccine-preventable-diseases-reports)
-
-
-
-## Early years development review
-Page: [https://data.gov.uk/collections/early-years/early-years-development-review](https://data.gov.uk/collections/early-years/early-years-development-review)
-
-
-            
-
-The following links were not reachable during test
-
-- [https://www.opendata.nhs.scot/group/early-child-development](https://www.opendata.nhs.scot/group/early-child-development)
+Using test results file: [results/collection-check-2026-09-29T1237.csv](results/collection-check-2026-09-29T1237.csv)
 
 
 
@@ -79,6 +31,18 @@ The following links were not reachable during test
 
 
 
+## Coastal erosion
+Page: [https://data.gov.uk/collections/environment/coastal-erosion](https://data.gov.uk/collections/environment/coastal-erosion)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/9fede91f-5acd-4fd2-9bd8-98153fa3c2ff](https://environment.data.gov.uk/dataset/9fede91f-5acd-4fd2-9bd8-98153fa3c2ff)
+
+
+
 ## Flood alerts
 Page: [https://data.gov.uk/collections/environment/flood-alerts](https://data.gov.uk/collections/environment/flood-alerts)
 
@@ -89,5 +53,96 @@ Check the following links are on the page above - the test does report false pos
 
 
             
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/88bed270-d465-11e4-8669-f0def148f590](https://environment.data.gov.uk/dataset/88bed270-d465-11e4-8669-f0def148f590)
+
+
+
+## Landfill sites
+Page: [https://data.gov.uk/collections/environment/landfill-sites](https://data.gov.uk/collections/environment/landfill-sites)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/692eaecf-d465-11e4-ac2e-f0def148f590](https://environment.data.gov.uk/dataset/692eaecf-d465-11e4-ac2e-f0def148f590)
+
+- [https://environment.data.gov.uk/dataset/7a955570-d465-11e4-a37c-f0def148f590](https://environment.data.gov.uk/dataset/7a955570-d465-11e4-a37c-f0def148f590)
+
+
+
+## Lidar
+Page: [https://data.gov.uk/collections/environment/lidar](https://data.gov.uk/collections/environment/lidar)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/13787b9a-26a4-4775-8523-806d13af58fc](https://environment.data.gov.uk/dataset/13787b9a-26a4-4775-8523-806d13af58fc)
+
+
+
+## Main rivers
+Page: [https://data.gov.uk/collections/environment/main-rivers](https://data.gov.uk/collections/environment/main-rivers)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/25dde009-ba7d-40de-8380-c5c3bb32ccdc](https://environment.data.gov.uk/dataset/25dde009-ba7d-40de-8380-c5c3bb32ccdc)
+
+
+
+## Non woodland trees
+Page: [https://data.gov.uk/collections/environment/non-woodland-trees](https://data.gov.uk/collections/environment/non-woodland-trees)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/9c41b3c6-2453-44f6-9900-e7821f1a1072](https://environment.data.gov.uk/dataset/9c41b3c6-2453-44f6-9900-e7821f1a1072)
+
+
+
+## Rail noise
+Page: [https://data.gov.uk/collections/environment/rail-noise](https://data.gov.uk/collections/environment/rail-noise)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/3fb3c2d7-292c-4e0a-bd5b-d8e4e1fe2947](https://environment.data.gov.uk/dataset/3fb3c2d7-292c-4e0a-bd5b-d8e4e1fe2947)
+
+
+
+## Road noise
+Page: [https://data.gov.uk/collections/environment/road-noise](https://data.gov.uk/collections/environment/road-noise)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/562c9d56-7c2d-4d42-83bb-578d6e97a517](https://environment.data.gov.uk/dataset/562c9d56-7c2d-4d42-83bb-578d6e97a517)
+
+
+
+## Storm overflows
+Page: [https://data.gov.uk/collections/environment/storm-overflows](https://data.gov.uk/collections/environment/storm-overflows)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac](https://environment.data.gov.uk/dataset/21e15f12-0df8-4bfc-b763-45226c16a8ac)
+
 
 
