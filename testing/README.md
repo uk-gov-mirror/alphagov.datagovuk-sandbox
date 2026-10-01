@@ -13,19 +13,7 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-09-30T1222.csv](results/collection-check-2026-09-30T1222.csv)
+Using test results file: [results/collection-check-2026-10-01T1256.csv](results/collection-check-2026-10-01T1256.csv)
 
 
-
-## Flood alerts
-Page: [https://data.gov.uk/collections/environment/flood-alerts](https://data.gov.uk/collections/environment/flood-alerts)
-
-
-Check the following links are on the page above - the test does report false positives:
-
-- https://environment.data.gov.uk/dataset/88bed270-d465-11e4-8669-f0def148f590
-
-
-            
-
-
+No issues reported
