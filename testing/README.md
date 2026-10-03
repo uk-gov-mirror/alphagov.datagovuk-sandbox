@@ -13,7 +13,43 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-10-02T1220.csv](results/collection-check-2026-10-02T1220.csv)
+Using test results file: [results/collection-check-2026-10-03T1130.csv](results/collection-check-2026-10-03T1130.csv)
 
 
-No issues reported
+
+## Child height and weight
+Page: [https://data.gov.uk/collections/early-years/child-height-and-weight](https://data.gov.uk/collections/early-years/child-height-and-weight)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics](https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics)
+
+
+
+## Childhood vaccinations
+Page: [https://data.gov.uk/collections/early-years/childhood-vaccinations](https://data.gov.uk/collections/early-years/childhood-vaccinations)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics](https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics)
+
+
+
+## Early years development review
+Page: [https://data.gov.uk/collections/early-years/early-years-development-review](https://data.gov.uk/collections/early-years/early-years-development-review)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://www.opendata.nhs.scot/group/early-child-development](https://www.opendata.nhs.scot/group/early-child-development)
+
+
+
