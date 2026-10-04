@@ -13,19 +13,7 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-10-03T1130.csv](results/collection-check-2026-10-03T1130.csv)
-
-
-
-## Child height and weight
-Page: [https://data.gov.uk/collections/early-years/child-height-and-weight](https://data.gov.uk/collections/early-years/child-height-and-weight)
-
-
-            
-
-The following links were not reachable during test
-
-- [https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics](https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics)
+Using test results file: [results/collection-check-2026-10-04T1212.csv](results/collection-check-2026-10-04T1212.csv)
 
 
 
@@ -37,19 +25,21 @@ Page: [https://data.gov.uk/collections/early-years/childhood-vaccinations](https
 
 The following links were not reachable during test
 
-- [https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics](https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics)
+- [https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/](https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/)
 
 
 
-## Early years development review
-Page: [https://data.gov.uk/collections/early-years/early-years-development-review](https://data.gov.uk/collections/early-years/early-years-development-review)
+## Aerial photography
+Page: [https://data.gov.uk/collections/environment/aerial-photography](https://data.gov.uk/collections/environment/aerial-photography)
 
 
             
 
 The following links were not reachable during test
 
-- [https://www.opendata.nhs.scot/group/early-child-development](https://www.opendata.nhs.scot/group/early-child-development)
+- [https://environment.data.gov.uk/dataset/32e2ff04-0c14-4544-b107-baa1552d0eee](https://environment.data.gov.uk/dataset/32e2ff04-0c14-4544-b107-baa1552d0eee)
+
+- [https://environment.data.gov.uk/dataset/dae203a8-ba24-4c54-bab0-866b9faadb58](https://environment.data.gov.uk/dataset/dae203a8-ba24-4c54-bab0-866b9faadb58)
 
 
 
