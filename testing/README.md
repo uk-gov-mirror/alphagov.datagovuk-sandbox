@@ -13,33 +13,19 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-10-04T1212.csv](results/collection-check-2026-10-04T1212.csv)
+Using test results file: [results/collection-check-2026-10-05T1418.csv](results/collection-check-2026-10-05T1418.csv)
 
 
 
-## Childhood vaccinations
-Page: [https://data.gov.uk/collections/early-years/childhood-vaccinations](https://data.gov.uk/collections/early-years/childhood-vaccinations)
-
-
-            
-
-The following links were not reachable during test
-
-- [https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/](https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/)
-
-
-
-## Aerial photography
-Page: [https://data.gov.uk/collections/environment/aerial-photography](https://data.gov.uk/collections/environment/aerial-photography)
+## Planning data
+Page: [https://data.gov.uk/collections/land-and-property/planning-data](https://data.gov.uk/collections/land-and-property/planning-data)
 
 
             
 
 The following links were not reachable during test
 
-- [https://environment.data.gov.uk/dataset/32e2ff04-0c14-4544-b107-baa1552d0eee](https://environment.data.gov.uk/dataset/32e2ff04-0c14-4544-b107-baa1552d0eee)
-
-- [https://environment.data.gov.uk/dataset/dae203a8-ba24-4c54-bab0-866b9faadb58](https://environment.data.gov.uk/dataset/dae203a8-ba24-4c54-bab0-866b9faadb58)
+- [https://www.planning.data.gov.uk/dataset/](https://www.planning.data.gov.uk/dataset/)
 
 
 
