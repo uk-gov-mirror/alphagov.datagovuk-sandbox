@@ -13,7 +13,55 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-10-14T1138.csv](results/collection-check-2026-10-14T1138.csv)
+Using test results file: [results/collection-check-2026-10-15T1116.csv](results/collection-check-2026-10-15T1116.csv)
 
 
-No issues reported
+
+## Child height and weight
+Page: [https://data.gov.uk/collections/early-years/child-height-and-weight](https://data.gov.uk/collections/early-years/child-height-and-weight)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics](https://www.opendata.nhs.scot/dataset/primary-1-body-mass-index-bmi-statistics)
+
+- [https://phw.nhs.wales/topic/child-measurement-programme/#reports](https://phw.nhs.wales/topic/child-measurement-programme/#reports)
+
+- [https://publichealthwales.shinyapps.io/ChildMeasurementProgrammeDashboard/](https://publichealthwales.shinyapps.io/ChildMeasurementProgrammeDashboard/)
+
+- [https://www.publichealth.hscni.net/publications?keys=statistical+profile+of+children%27s+health](https://www.publichealth.hscni.net/publications?keys=statistical+profile+of+children%27s+health)
+
+
+
+## Childhood vaccinations
+Page: [https://data.gov.uk/collections/early-years/childhood-vaccinations](https://data.gov.uk/collections/early-years/childhood-vaccinations)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics](https://www.opendata.nhs.scot/dataset/childhood-immunisation-statistics)
+
+- [https://scotland.shinyapps.io/phs-vaccination-surveillance/](https://scotland.shinyapps.io/phs-vaccination-surveillance/)
+
+- [https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/](https://phw.nhs.wales/knowledge-article/cover-national-childhood-immunisation-uptake-data/)
+
+- [https://www.publichealth.hscni.net/publications/annual-immunisation-and-vaccine-preventable-diseases-reports](https://www.publichealth.hscni.net/publications/annual-immunisation-and-vaccine-preventable-diseases-reports)
+
+
+
+## Education statistics
+Page: [https://data.gov.uk/collections/early-years/education-statistics](https://data.gov.uk/collections/early-years/education-statistics)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://www.gov.wales/statistics-and-research?keywords=&field_policy_areas%5B35%5D=35&field_stats_research_type%5B1%5D=1&All=All&published_after=&published_before=](https://www.gov.wales/statistics-and-research?keywords=&field_policy_areas%5B35%5D=35&field_stats_research_type%5B1%5D=1&All=All&published_after=&published_before=)
+
+
+
