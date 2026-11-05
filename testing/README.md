@@ -13,7 +13,19 @@ The tests visit the rendered html version of each collection page on data.gov.uk
                     
 ## Report
 
-Using test results file: [results/collection-check-2026-11-04T1414.csv](results/collection-check-2026-11-04T1414.csv)
+Using test results file: [results/collection-check-2026-11-05T1430.csv](results/collection-check-2026-11-05T1430.csv)
 
 
-No issues reported
+
+## Education statistics
+Page: [https://data.gov.uk/collections/early-years/education-statistics](https://data.gov.uk/collections/early-years/education-statistics)
+
+
+            
+
+The following links were not reachable during test
+
+- [https://explore-education-statistics.service.gov.uk/find-statistics?themeId=e6e31160-fe79-4556-f3a9-08d86094b9e8&sortBy=newest](https://explore-education-statistics.service.gov.uk/find-statistics?themeId=e6e31160-fe79-4556-f3a9-08d86094b9e8&sortBy=newest)
+
+
+
